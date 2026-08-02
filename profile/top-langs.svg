@@ -130,7 +130,17 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="91.31"
+          width="102.35"
+          height="8"
+          fill="#3572A5"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="102.35"
+          y="0"
+          width="77.35"
           height="8"
           fill="#663399"
         />
@@ -138,44 +148,34 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="91.31"
+          x="179.7"
           y="0"
-          width="82.99"
+          width="70.3"
           height="8"
           fill="#e34c26"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="174.3"
-          y="0"
-          width="75.7"
-          height="8"
-          fill="#3572A5"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 36.52%
+        Python 40.94%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 33.19%
+        CSS 30.94%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 30.28%
+        HTML 28.12%
       </text>
     </g>
   </g></g>
