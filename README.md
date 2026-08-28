@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td align="center" valign="middle">
-        <img width="450" alt="ascii-art" src="https://github.com/user-attachments/assets/40041e1a-8fb6-40fe-8923-8ec72359fe93" />
+        <img width="450" alt="ascii-art" src="https://github.com/user-attachments/assets/a54f5c41-c977-47be-becb-8e5b1f57a4d1" />
       </td>
       <td align="center" valign="middle">
         <img width="400" src="./profile/top-langs.svg" alt="celedriel" />
@@ -12,3 +12,6 @@
     </tr>
   </table>
 </div>
+
+
+
